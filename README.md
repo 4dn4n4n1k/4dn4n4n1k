@@ -1,5 +1,5 @@
 # 👨‍💻About Me:
-🔭 I’m currently working on Cybersecurity Homelab<br>🌱 Learning Cloud Security and Infrastructure Management<br>👨‍💻 All of my projects are available at adnananik.com<br>📝 Regularly write articles on adnananik.com<br>📫 How to reach me: adnananik301@gmail.com<br>📄 Know about my experiences adnananik.com<br>⚡ Fun fact, I am so noob at writing about myself
+🔭 Running hands-on security labs to simulate real-world attacks<br>🌱 Learning security, Linux, and real-world infrastructure<br>👨‍💻 Projects, labs, and experiments at adnananik.me<br>📫 Email me at adnananik301@gmail.com<br>📄 Know about my experiences adnananik.me<br>⚡ Fun fact, I like breaking systems to understand them
 
 
 
