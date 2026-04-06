@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 🧠 About Me<br><br>```txt<br>> CSE Student | Cybersecurity Enthusiast | Cloud Learner<br>> Building skills. Breaking systems. Securing futures.<br><br>##🧩 Identity<br>while(alive) {<br>    learn();<br>    build();<br>    break();<br>    secure();<br>}
+![Banner](1500x500.jpg)
 
 
 ## 🌐 Socials:
