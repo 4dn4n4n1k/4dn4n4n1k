@@ -11,7 +11,7 @@ $ whoami
 adnananik
 
 $ role
-CSE Student | Cybersecurity Enthusiast
+CSE Student | Cybersecurity Enthusiast | Cloud Security
 
 $ portfolio
 adnananik.me
