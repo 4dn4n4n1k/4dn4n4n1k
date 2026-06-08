@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="1500x500.jpg" width="800"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpvbnJkZ2Y3OHgzY242ajJsZ2x1bzU0bG9mcXhteHAwdW9kdGdpbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jTNG3RF6EwbkpD4LZx/giphy.gif" width="450" />
 </p>
 
 <h1 align="center">View My Portfolio: https://adnananik.me </h1>
